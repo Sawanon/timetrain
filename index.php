@@ -57,6 +57,7 @@
     echo "<br>";
     echo "<br>check ";
     print_r($check);
+    $dayma = 0;
     for($j=0;$j<3;$j++){
       $dayt = 0;
       $maxday = $check[$pm[$j]][1];
@@ -65,6 +66,9 @@
       $dayshow = 1;
       echo "<table border='1'>";
       echo "<tr><th colspan='7'>".$pm[$j]."</th></tr>";
+      echo "<tr><th style='background-color: #dee464;'>จันทร์</th><th style='background-color: #f06de3;'>อังคาร</th><th style='background-color: #7dd065;'>พุธ</th>
+      <th style='background-color: #dd8f3f;'>พฤหัสบดี</th><th style='background-color: #3498d0;'>ศุกร์</th><th style='background-color: #a147e8;'>เสาร์</th>
+      <th style='background-color: #e74c4c;'>อาทิตย์</th></tr>";
       for($i=0;$i<$maxday;$i++) {
         $count++;
         $dayt++;
@@ -74,8 +78,12 @@
           $i=$i-1;
         }else if($count>0 && $count<8){
           if($startday<=$dayt){
-            if($datshow[$pm[$j]][sdas]==$)
-            echo "<td>".$dayshow."</td>";
+            if($day[$pm[$j]][$dayma]==$dayshow){
+              echo "<td style='background-color: #a4eb5e;'>".$dayshow."</td>";
+              $dayma = $dayma+4;
+            }else{
+              echo "<td style='background-color: #df6868;'>".$dayshow."</td>";
+            }
             $dayshow++;
           }else{
             echo "<td></td>";
@@ -88,6 +96,8 @@
       }
       echo "</table><br>";
     }
+    $test = $day[$pm[0]][0];
+    echo $test;
     ?>
     <script src="bootstrap/js/bootstrap.min.js"></script>
   </body>
