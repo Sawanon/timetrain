@@ -9,7 +9,8 @@
       text-align: center;
     }
       td{
-        width: 50px;
+        width: 70px;
+        height: 30px;
       }
     </style>
   </head>
@@ -79,7 +80,7 @@
         }else if($count>0 && $count<8){
           if($startday<=$dayt){
             if($day[$pm[$j]][$dayma]==$dayshow){
-              echo "<td style='background-color: #a4eb5e;'>".$dayshow."</td>";
+                echo "<td style='background-color: #a4eb5e;'>".$dayshow."</td>";
               $dayma = $dayma+4;
             }else{
               echo "<td style='background-color: #df6868;'>".$dayshow."</td>";
