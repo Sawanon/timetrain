@@ -59,6 +59,7 @@
     echo "<br>check ";
     print_r($check);
     $dayma = 0;
+    //$hrtotal = 0;
     for($j=0;$j<3;$j++){
       $dayt = 0;
       $maxday = $check[$pm[$j]][1];
@@ -80,7 +81,12 @@
         }else if($count>0 && $count<8){
           if($startday<=$dayt){
             if($day[$pm[$j]][$dayma]==$dayshow){
+              if(substr($day[$pm[$j]][$dayma+2],1,2)==1){
                 echo "<td style='background-color: #a4eb5e;'>".$dayshow."</td>";
+                $hrtotal += 9;
+              }else if(substr($day[$pm[$j]][$dayma+2],1,2)==2){
+                echo "<td style='background-color: #eee965;'>".$dayshow."</td>";
+              }
               $dayma = $dayma+4;
             }else{
               echo "<td style='background-color: #df6868;'>".$dayshow."</td>";
@@ -97,8 +103,7 @@
       }
       echo "</table><br>";
     }
-    $test = $day[$pm[0]][0];
-    echo $test;
+    echo "<div style='position: fixed; top: 50%; right: 30%; color: #f2eae9;'>total: ".$hrtotal."</div>";
     ?>
     <script src="bootstrap/js/bootstrap.min.js"></script>
   </body>
