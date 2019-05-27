@@ -50,15 +50,15 @@
             $m++;
           }
         }
-        echo " [-".$c."-".$data."-".$c."-] ";
+        //echo " [-".$c."-".$data."-".$c."-] "; //ตัวเทียบ ตัวนับ กับ ข้อมูล
       }
     }
-    echo "<br>";
+    /*echo "<br>"; //ตัวเอาไว้ดูข้อมูลใน array
     echo "<br>day ";
     print_r($day);
     echo "<br>";
     echo "<br>check ";
-    print_r($check);
+    print_r($check);*/
     $dayma = 0;
     $workedday = 0;
     //$hrtotal = 0;
