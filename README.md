@@ -23,10 +23,9 @@
 # วัน
 
 ก็ใส่วันไปรูปแบบคือต้องใส่ 2 ตำแหน่ง เช่น 01 09 10 s
+
 ![day](https://user-images.githubusercontent.com/49481565/58469303-69515d80-8169-11e9-9f42-07bfc89e5e38.gif)
 
-แล้วก็ / ไปเพื่อความเข้าใจตรงกันว่าจบการชี้แจงเกี่ยวกับเดือนแล้ว ต่อมาจะเป็นวันแล้วนะ
-![endmonth](https://user-images.githubusercontent.com/49481565/58469061-f8aa4100-8168-11e9-9030-2a7f21dc12c7.gif)
 
 
 ## What is the Decoration API?
