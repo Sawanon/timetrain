@@ -22,12 +22,9 @@
 
 # วัน
 
-
 ก็ใส่วันไปรูปแบบคือต้องใส่ 2 ตำแหน่ง เช่น 01 09 10
 ![day](https://user-images.githubusercontent.com/49481565/58469303-69515d80-8169-11e9-9f42-07bfc89e5e38.gif)
 
-
-![decoration-example](https://cloud.githubusercontent.com/assets/69169/3518389/d9a8344e-06ff-11e4-9283-c32c9d99e0c1.gif)
 
 ## What is the Decoration API?
 
