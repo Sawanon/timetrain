@@ -4,6 +4,8 @@
 
 - รู้จักตำแหน่งต่างๆภายในไฟล์
 
+# เดือน
+
 อันนี้คือเดือนจ้า เดือน 4 อ่ะ เมษายนอ่ะ สงกรานอ่ะ u know?
 ![month](https://user-images.githubusercontent.com/49481565/58468125-2c846700-8167-11e9-8775-d9f1b0e037cb.gif)
 
@@ -17,6 +19,10 @@
 แล้วก็ / ไปเพื่อความเข้าใจตรงกันว่าจบการชี้แจงเกี่ยวกับเดือนแล้ว ต่อมาจะเป็นวันแล้วนะ
 ![endmonth](https://user-images.githubusercontent.com/49481565/58469061-f8aa4100-8168-11e9-9030-2a7f21dc12c7.gif)
 
+# วัน
+
+ก็ใส่วันไปรูปแบบคือต้องใส่ 2 ตำแหน่ง เช่น 01 09 10
+![day](https://user-images.githubusercontent.com/49481565/58469303-69515d80-8169-11e9-9f42-07bfc89e5e38.gif)
 
 
 ![decoration-example](https://cloud.githubusercontent.com/assets/69169/3518389/d9a8344e-06ff-11e4-9283-c32c9d99e0c1.gif)
