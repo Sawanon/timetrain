@@ -1,6 +1,6 @@
 # วิธีการใช้จ้า
 
-This will show you all the capabilities of Atom's Decoration API. When enabled, this package adds a panel of buttons that exercise the API.
+อันดับแรกคือเราจะมาบอกรูปแบบในการกรอกข้อมูลลงในไฟล์ [data.txt]
 
 ![decoration-example](https://cloud.githubusercontent.com/assets/69169/3518389/d9a8344e-06ff-11e4-9283-c32c9d99e0c1.gif)
 
