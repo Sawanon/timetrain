@@ -61,6 +61,7 @@
     print_r($check);*/
     $dayma = 0;
     $workedday = 0;
+    $laday = 0;
     //$hrtotal = 0;
     for($j=0;$j<3;$j++){
       $dayt = 0;
@@ -89,6 +90,9 @@
                 $workedday += 1;
               }else if(substr($day[$pm[$j]][$dayma+2],1,2)==2){
                 echo "<td style='background-color: #c2b93d;'>".$dayshow."</td>";
+              }else if(substr($day[$pm[$j]][$dayma+2],1,2)==0){
+                echo "<td style='background-color: #bdbdbd;'>".$dayshow."</td>";
+                $laday += 1;
               }
               $dayma = $dayma+4;
             }else{
@@ -108,7 +112,7 @@
     }
     $left = 240-$hrtotal;
     $leftday = $left/9;
-    $leftdaywork = 32-$workedday;
+    $leftdaywork = 32-$workedday-$laday;
     echo "<div style='position: fixed; top: 50%; right: 30%; color: #d7bcb8;'>
     total : ".$hrtotal." Hr <br>
     Left : ".$left." Hr <br>
