@@ -40,6 +40,11 @@
 
 ![haha](https://media.giphy.com/media/fwEbBZvfaEJKzNGbVX/giphy.gif)
 
+ผิดล่ะ แบบนี้ๆ
+
+![endmalayut](https://user-images.githubusercontent.com/49481565/58471330-cb13c680-816d-11e9-8ac4-876192a87eaf.gif)
+
+
 มาถึงตรงนี้แล้วทุกคนอาจจะใช้ได้แล้ว แต่สำหรับคนที่ไม่ได้ไม่ได้ฝึกงาน 32 วันเหมือนเราเนี่ยก็ไปแก้ตรงนี้สะ !!!
 
 
