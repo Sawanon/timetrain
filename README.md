@@ -1,5 +1,4 @@
-"# timetrain"
-# Decoration Example
+# วิธีการใช้จ้า
 
 This will show you all the capabilities of Atom's Decoration API. When enabled, this package adds a panel of buttons that exercise the API.
 
