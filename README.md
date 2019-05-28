@@ -4,8 +4,12 @@
 
 - รู้จักตำแหน่งต่างๆภายในไฟล์
 
-vvvvvอันนี้คือเดือนจ้า เดือน 4 อ่ะ เมษายนอ่ะ สงกรานอ่ะ u know?
+อันนี้คือเดือนจ้า เดือน 4 อ่ะ เมษายนอ่ะ สงกรานอ่ะ u know?
 ![month](https://user-images.githubusercontent.com/49481565/58468125-2c846700-8167-11e9-8775-d9f1b0e037cb.gif)
+
+ต่อมาเป็นการบอกให้โปรแกรมรู้ว่า เดือนเมษายน นั้นมี 30 วันนะจ่ะ
+![maxday](https://user-images.githubusercontent.com/49481565/58468557-f398c200-8167-11e9-90d8-18f5f0217f32.gif)
+
 
 
 ![decoration-example](https://cloud.githubusercontent.com/assets/69169/3518389/d9a8344e-06ff-11e4-9283-c32c9d99e0c1.gif)
