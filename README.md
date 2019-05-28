@@ -36,7 +36,9 @@
 
 ![lamayut](https://user-images.githubusercontent.com/49481565/58470721-82a7d900-816c-11e9-89e3-8f4feb69dc4a.gif)
 
-ถ้าจะขึ้นวันใหม่ก็ใส่ - ให้มันด้วยเป็นตัวคั่น ![haha](https://media.giphy.com/media/fwEbBZvfaEJKzNGbVX/giphy.gif)
+ถ้าจะขึ้นวันใหม่ก็ใส่ - ให้มันด้วยเป็นตัวคั่น
+
+![haha](https://media.giphy.com/media/fwEbBZvfaEJKzNGbVX/giphy.gif)
 
 มาถึงตรงนี้แล้วทุกคนอาจจะใช้ได้แล้ว แต่สำหรับคนที่ไม่ได้ไม่ได้ฝึกงาน 32 วันเหมือนเราเนี่ยก็ไปแก้ตรงนี้สะ !!!
 
