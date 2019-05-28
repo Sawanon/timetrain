@@ -10,6 +10,9 @@
 ต่อมาเป็นการบอกให้โปรแกรมรู้ว่า เดือนเมษายน นั้นมี 30 วันนะจ่ะ
 ![maxday](https://user-images.githubusercontent.com/49481565/58468557-f398c200-8167-11e9-90d8-18f5f0217f32.gif)
 
+นี่เลยงงใช่ไหมเลขอะไร มันคือการบอกให้รู้ว่าเดือนนี้เริ่มที่วันอ่ะเช่น วันจันทร์ = 1 และต่อไปเรื่อยๆ
+![daystart](https://user-images.githubusercontent.com/49481565/58468775-630eb180-8168-11e9-858b-f99524ff695a.gif)
+
 
 
 ![decoration-example](https://cloud.githubusercontent.com/assets/69169/3518389/d9a8344e-06ff-11e4-9283-c32c9d99e0c1.gif)
