@@ -65,7 +65,13 @@
 
 แต่ต้องนับวันเองนะว่าฝึกงานทั้งหมดกี่วัน ฮ่าๆ
 
+- การแก้วันฝึกงานทั้งหมดของเรา
+
 ![edit other](https://user-images.githubusercontent.com/49481565/58471665-97856c00-816e-11e9-8137-23740ef52264.gif)
+
+- แก้ชั่วโมงที่ต้องฝึกงานให้ครบตามเกณฑ์
+
+![confhr](https://user-images.githubusercontent.com/49481565/58523568-11f5d080-81ef-11e9-87e2-ffcd65188ef8.gif)
 
 
 ## What is the Decoration API?
