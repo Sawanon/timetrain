@@ -61,6 +61,9 @@
 - ทำงานมาแล้วกี่วัน
 - เหลือวันที่ทำงานได้ (ก็คือมีโอกาสที่จะมาทำตัวดีๆอีกกี่วัน)
 
+![detailshow](https://user-images.githubusercontent.com/49481565/58522722-c988e380-81eb-11e9-835d-b1f8885b98bb.gif)
+
+
 ## What is the Decoration API?
 
 It's common when writing packages to annotate, or decorate lines, gutter line numbers, and highlight ranges of text. The decoration API allows you to add CSS classes and styling to these line, gutter line numbers, and regions of text.
