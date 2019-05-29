@@ -76,7 +76,7 @@
 - แก้ชั่วโมงที่ทำงานในแต่ละวันของเรา
 
 ![confhrdowork](https://user-images.githubusercontent.com/49481565/58523746-d27bb400-81ef-11e9-91fc-e00a3640410e.gif)
-
+![confhrdowork2](https://user-images.githubusercontent.com/49481565/58524129-68640e80-81f1-11e9-9261-81640459204c.gif)
 
 
 ## What is the Decoration API?
