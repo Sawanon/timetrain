@@ -1,3 +1,5 @@
+# ตัวช่วยในการคำนวณชั่วโมงในการฝึกงาน(แนะนำสาขา IT)
+
 # วิธีการใช้จ้า
 
 ![Travis](https://img.shields.io/badge/language-PHP-black.svg)
@@ -77,6 +79,14 @@
 
 ![confhrdowork2](https://user-images.githubusercontent.com/49481565/58524129-68640e80-81f1-11e9-9261-81640459204c.gif)
 ![confhrdowork](https://user-images.githubusercontent.com/49481565/58523746-d27bb400-81ef-11e9-91fc-e00a3640410e.gif)
+
+- ส่วนใครที่ฝึกมากกว่า 3 เดือนหรือไม่ใช่เดือนที่อยู่ในโปรแกรมก็แก้ตรงนี้เลยจ้า
+
+- ใครฝึกงานเดือนไหนอะไรยังก็แก้เรียงไปเลยจ้า
+![confmonth](https://user-images.githubusercontent.com/49481565/58524637-19b77400-81f3-11e9-80bf-61c888621922.gif)
+- ถ้าฝึก 4 เดือนก็เปลี่ยนเป็น 4 ใครฝึก 12 เดือนก็แก้เอาจ้า ฝึกให้ลืมเธอไปเลยยย
+![confmonth2](https://user-images.githubusercontent.com/49481565/58524700-4ec3c680-81f3-11e9-8789-5b228534f60e.gif)
+
 
 
 ## What is the Decoration API?
