@@ -81,6 +81,8 @@
 
 - แก้ชั่วโมงที่ทำงานในแต่ละวันของเรา
 
+เราทำงานตั้งแต่ 08:00 น. ถึง 17:00 น. รวมแล้วก็ 9 ชั่วโมงพอดี
+
 ![confhrdowork2](https://user-images.githubusercontent.com/49481565/58524129-68640e80-81f1-11e9-9261-81640459204c.gif)
 ![confhrdowork](https://user-images.githubusercontent.com/49481565/58523746-d27bb400-81ef-11e9-91fc-e00a3640410e.gif)
 
