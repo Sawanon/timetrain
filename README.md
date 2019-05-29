@@ -1,6 +1,6 @@
 # วิธีการใช้จ้า
 
-[![Travis](https://img.shields.io/badge/language-PHP-black.svg)]
+![Travis](https://img.shields.io/badge/language-PHP-black.svg)
 
 อันดับแรกคือเราจะมาบอกรูปแบบในการกรอกข้อมูลลงในไฟล์ [data.txt](data.txt)
 
