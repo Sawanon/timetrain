@@ -73,6 +73,11 @@
 
 ![confhr](https://user-images.githubusercontent.com/49481565/58523568-11f5d080-81ef-11e9-87e2-ffcd65188ef8.gif)
 
+- แก้ชั่วโมงที่ทำงานในแต่ละวันของเรา
+
+![confhrdowork](https://user-images.githubusercontent.com/49481565/58523746-d27bb400-81ef-11e9-91fc-e00a3640410e.gif)
+
+
 
 ## What is the Decoration API?
 
