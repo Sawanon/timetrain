@@ -98,6 +98,7 @@
 ![confmonth2](https://user-images.githubusercontent.com/49481565/58524700-4ec3c680-81f3-11e9-8789-5b228534f60e.gif)
 
 
+# ต่อจากนี้เป็นตัวอย่างที่เอาไว้แต่งคู่มือของผมเอง
 
 ## What is the Decoration API?
 
