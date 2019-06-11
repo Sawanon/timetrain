@@ -70,10 +70,10 @@
       $count = 0;
       $dayshow = 1;
       echo "<table border='1'>";
-      echo "<tr><th colspan='7' style='background-color: #1a5e86;'>".$pm[$j]."</th></tr>";
-      echo "<tr><th style='background-color: #cfc700;'>จันทร์</th><th style='background-color: #f06de3;'>อังคาร</th><th style='background-color: #7dd065;'>พุธ</th>
-      <th style='background-color: #dd8f3f;'>พฤหัสบดี</th><th style='background-color: #3498d0;'>ศุกร์</th><th style='background-color: #a147e8;'>เสาร์</th>
-      <th style='background-color: #e74c4c;'>อาทิตย์</th></tr>";
+      echo "<tr><th colspan='7' style='background-color: #005b91;'>".$pm[$j]."</th></tr>";
+      echo "<tr><th style='background-color: #e3d900;'>จันทร์</th><th style='background-color: #cd04b9;'>อังคาร</th><th style='background-color: #29b900;'>พุธ</th>
+      <th style='background-color: #cd7104;'>พฤหัสบดี</th><th style='background-color: #007cc2;'>ศุกร์</th><th style='background-color: #7904d5;'>เสาร์</th>
+      <th style='background-color: #e60505;'>อาทิตย์</th></tr>";
       for($i=0;$i<$maxday;$i++) {
         $count++;
         $dayt++;
@@ -89,7 +89,7 @@
                 $hrtotal += 9;
                 $workedday += 1;
               }else if(substr($day[$pm[$j]][$dayma+2],1,2)==2){
-                echo "<td style='background-color: #c2b93d;'>".$dayshow."</td>";
+                echo "<td style='background-color: #e2bc1c;'>".$dayshow."</td>";
                 $laday += 1;
               }else if(substr($day[$pm[$j]][$dayma+2],1,2)==0){
                 echo "<td style='background-color: #bdbdbd;'>".$dayshow."</td>";
@@ -97,7 +97,7 @@
               }
               $dayma = $dayma+4;
             }else{
-              echo "<td style='background-color: #8c1313;'>".$dayshow."</td>";
+              echo "<td style='background-color: #800000;'>".$dayshow."</td>";
             }
             $dayshow++;
           }else{
@@ -116,9 +116,13 @@
     $leftdaywork = 35-$workedday-$laday;
     echo "<div style='position: fixed; top: 50%; right: 30%; color: #d7bcb8;'>
     total : ".$hrtotal." Hr <br>
-    Left : ".$left." Hr <br>
-    Left Days : ".substr($leftday,0,5)." Days <br><br>
-    Worked Days : ".$workedday." Days <br>
+    Left : ".$left." Hr <br>";
+    if(substr($leftday,0,5)<=0){
+      echo "Left Days : <span style='color: #4dc316;'>Success!</span> <br><br>";
+    }else{
+      echo "Left Days : ".substr($leftday,0,5)." Days <br><br>";
+    }
+    echo "Worked Days : ".$workedday." Days <br>
     Left Work Days : ".$leftdaywork." Days
     </div>";
     ?>
