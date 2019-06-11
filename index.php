@@ -71,9 +71,9 @@
       $dayshow = 1;
       echo "<table border='1'>";
       echo "<tr><th colspan='7' style='background-color: #005b91;'>".$pm[$j]."</th></tr>";
-      echo "<tr><th style='background-color: #e3d900;'>จันทร์</th><th style='background-color: #cd04b9;'>อังคาร</th><th style='background-color: #29b900;'>พุธ</th>
-      <th style='background-color: #cd7104;'>พฤหัสบดี</th><th style='background-color: #007cc2;'>ศุกร์</th><th style='background-color: #7904d5;'>เสาร์</th>
-      <th style='background-color: #e60505;'>อาทิตย์</th></tr>";
+      echo "<tr><th style='background-color: #fece00;'>จันทร์</th><th style='background-color: #cd04b9;'>อังคาร</th><th style='background-color: #29b900;'>พุธ</th>
+      <th style='background-color: #cd7104;'>พฤหัสบดี</th><th style='background-color: #007cc2;'>ศุกร์</th><th style='background-color: #9d6ab9;'>เสาร์</th>
+      <th style='background-color: #ee3239;'>อาทิตย์</th></tr>";
       for($i=0;$i<$maxday;$i++) {
         $count++;
         $dayt++;
@@ -85,7 +85,7 @@
           if($startday<=$dayt){
             if($day[$pm[$j]][$dayma]==$dayshow){
               if(substr($day[$pm[$j]][$dayma+2],1,2)==1){
-                echo "<td style='background-color: #569616;'>".$dayshow."</td>";
+                echo "<td style='background-color: #5eaa5f;'>".$dayshow."</td>";
                 $hrtotal += 9;
                 $workedday += 1;
               }else if(substr($day[$pm[$j]][$dayma+2],1,2)==2){
